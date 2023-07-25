@@ -1,0 +1,15 @@
+.indexcss {
+    background-color: rgb(236, 206, 161);
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+p {
+    font-size: 50pt;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
