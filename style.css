@@ -13,3 +13,17 @@ p {
 h2 {
     text-align: center;
 }
+
+.topnav{
+ background-color: tan;
+    overflow: hidden;
+
+}
+.topnav a{
+    float: left; 
+    color: white;
+    text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+front-size: 30px;
+}
