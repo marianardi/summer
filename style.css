@@ -41,6 +41,11 @@ font-size: 30px;
 .column {
     flex: 33.33%;
 }
+
+.column1 {
+    flex: 10%;
+}
+
 @media screen and (max-device-width: 60em)  {
 /* .indexCSS}
 display: grid; 
